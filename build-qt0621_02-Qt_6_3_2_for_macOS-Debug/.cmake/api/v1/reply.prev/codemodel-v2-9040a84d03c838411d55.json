@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4691583640b913b72799.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt0621_02",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt0621_02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt0621_02-Debug-2cb5f14d8427a54af0bb.json",
+					"name" : "qt0621_02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt0621_02_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt0621_02_autogen-Debug-e41a473ce674f98876f4.json",
+					"name" : "qt0621_02_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt0621_02_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt0621_02_autogen_timestamp_deps-Debug-c7ffcb2950f53195a042.json",
+					"name" : "qt0621_02_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/hwanghyesoo/QTbase/cpp-codebase/build-qt0621_02-Qt_6_3_2_for_macOS-Debug",
+		"source" : "/Users/hwanghyesoo/QTbase/cpp-codebase/qt0621_02"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
