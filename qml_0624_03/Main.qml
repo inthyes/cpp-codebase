@@ -15,6 +15,7 @@ Window {
         height: 100
         x: 100
         y: 100
+        //자식들과의 순위에서는 영향이 없음
         z: 3
 
         Rectangle{
