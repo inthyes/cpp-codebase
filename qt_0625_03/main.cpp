@@ -1,6 +1,6 @@
 /*
  * what
- * QObject
+ * Q_OBJECT Macro
  *
  * why
  * It's the base class for (almost) everything
@@ -9,7 +9,7 @@
  * QDebug
  * Class lifecycle
  * Application life cycle
- * Event loops
+ * Event loops Q_OBJECT
 */
 
 #include <QCoreApplication>

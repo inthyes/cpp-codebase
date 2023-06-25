@@ -1,9 +1,9 @@
 #ifndef TEST_H
 #define TEST_H
 
+#include "QtCore/qtmetamacros.h"
 #include <QObject>
 #include <QDebug>
-#
 
 class Test : public QObject
 {
